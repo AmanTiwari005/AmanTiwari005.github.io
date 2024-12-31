@@ -40,12 +40,18 @@ Enthusiastic and dedicated data scientist with expertise in Python, machine lear
 - Converted research papers into audio podcasts using NLP and Transformers.
 - Designed a Streamlit interface for easy file uploads and podcast generation.
 
-### Phishing URL Detector
-- Developed a machine learning model for malicious URL detection with 94% accuracy.
-- Tools: Scikit-learn, Streamlit.
+###  PawClassifier- Reflects the functionality of classifying pets 
+- Used Python, NLP, Transformers, and Audio segmentation
+ for Converts research papers in PDF format into audio podcasts for easy listening and condenses lengthy content into
+ concise summaries for quick insights.
+- Utilized XGBoost, an efficient and high-performance gradient boosting framework
+ for developed a predictive model to estimate house prices in Boston.
 
-### Happy or Sad Image Classification
-- Built a CNN-based model for facial expression recognition using TensorFlow and Keras.
+###  Boston House Price Prediction 
+ - Machine Learning Implementation with XGBoost: Developed a predictive model using XGBoost to estimate
+   house prices, achieving a 92% accuracy rate and enhancing predictive performance by 25%.
+-  Utilized advanced data analysis techniques and Python libraries like
+   pandas and scikit-learn, resulting in 30% faster data manipulation and 15% more efficient model evaluation
 
 ---
 
